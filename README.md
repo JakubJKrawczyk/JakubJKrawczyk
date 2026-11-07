@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jacob 👋</h1>
-<h3 align="center">Software engineer, AI Developer, i work also with DevOPS and IOT</h3>
+<h3 align="center">QA engineer, Software engineer, AI Developer, i work also with DevOPS and IOT</h3>
 
 <p align="center">
   <a href="https://github.com/JakubJKrawczyk" target="_blank">
